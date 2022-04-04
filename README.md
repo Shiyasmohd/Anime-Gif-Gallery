@@ -18,9 +18,9 @@
 
 ## Technologies Used 💻
 
-  • Blockchain
-  • Solana
-  • Anchor
-  • React
+  • Blockchain<br/>
+  • Solana<br/>
+  • Anchor<br/>
+  • React<br/>
   • Heroku
 
