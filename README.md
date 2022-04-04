@@ -1,6 +1,6 @@
 <div align="center" style="font-family:'Montserrat', sans-serif;">
   
-## Anime-Gif-Gallery 🖼
+## Anime GIF Gallery 🖼
 
   [![Link](https://img.shields.io/badge/Website-Link-yellow)](https://anime-gif-gallery.herokuapp.com/) <br/>
   An Anime GIF Gallery on Solana using Anchor Framework
