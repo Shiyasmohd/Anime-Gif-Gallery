@@ -1,7 +1,8 @@
 <div align="center">
-# Anime-Gif-Gallery 🖼
+  
+## Anime-Gif-Gallery 🖼
 
-  [![Link](https://img.shields.io/badge/Website-Link-yellow)](https://anime-gif-gallery.herokuapp.com/)
+  [![Link](https://img.shields.io/badge/Website-Link-yellow)](https://anime-gif-gallery.herokuapp.com/) <br/>
   An Anime GIF Gallery on Solana using Anchor Framework
 </div>
 
