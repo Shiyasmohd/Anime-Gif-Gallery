@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/Anime-Gif-Gallery/static/css/main.ce7d4ba5.chunk.css",
-    "main.js": "/Anime-Gif-Gallery/static/js/main.0780bfac.chunk.js",
-    "main.js.map": "/Anime-Gif-Gallery/static/js/main.0780bfac.chunk.js.map",
+    "main.js": "/Anime-Gif-Gallery/static/js/main.4ad37dab.chunk.js",
+    "main.js.map": "/Anime-Gif-Gallery/static/js/main.4ad37dab.chunk.js.map",
     "runtime-main.js": "/Anime-Gif-Gallery/static/js/runtime-main.2494f533.js",
     "runtime-main.js.map": "/Anime-Gif-Gallery/static/js/runtime-main.2494f533.js.map",
-    "static/js/2.5d1a14bd.chunk.js": "/Anime-Gif-Gallery/static/js/2.5d1a14bd.chunk.js",
-    "static/js/2.5d1a14bd.chunk.js.map": "/Anime-Gif-Gallery/static/js/2.5d1a14bd.chunk.js.map",
+    "static/js/2.258db144.chunk.js": "/Anime-Gif-Gallery/static/js/2.258db144.chunk.js",
+    "static/js/2.258db144.chunk.js.map": "/Anime-Gif-Gallery/static/js/2.258db144.chunk.js.map",
     "index.html": "/Anime-Gif-Gallery/index.html",
     "static/css/main.ce7d4ba5.chunk.css.map": "/Anime-Gif-Gallery/static/css/main.ce7d4ba5.chunk.css.map",
-    "static/js/2.5d1a14bd.chunk.js.LICENSE.txt": "/Anime-Gif-Gallery/static/js/2.5d1a14bd.chunk.js.LICENSE.txt"
+    "static/js/2.258db144.chunk.js.LICENSE.txt": "/Anime-Gif-Gallery/static/js/2.258db144.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2494f533.js",
-    "static/js/2.5d1a14bd.chunk.js",
+    "static/js/2.258db144.chunk.js",
     "static/css/main.ce7d4ba5.chunk.css",
-    "static/js/main.0780bfac.chunk.js"
+    "static/js/main.4ad37dab.chunk.js"
   ]
 }
