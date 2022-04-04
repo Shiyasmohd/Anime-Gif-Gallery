@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="font-family:'Montserrat', sans-serif;">
   
 ## Anime-Gif-Gallery 🖼
 
@@ -14,7 +14,7 @@
   4. Get free SOL from [Solana Faucet](https://solfaucet.com/) by pasting your wallet adderess.
   5. Go to [Anime GIF Gallery](https://anime-gif-gallery.herokuapp.com/)
   6. Connect your Wallet
-  7. Paste Your favourite Anime GIF Links 
+  7. Paste Your favourite Anime GIF Links ✨
 
 ## Technologies Used 💻
 
